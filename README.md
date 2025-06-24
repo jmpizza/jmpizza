@@ -11,3 +11,5 @@ I'm Juan Manuel, a programmer who loves learning new things and getting involved
 <a href="https://instagram.com/juanma_pizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanma_pizza" height="30" width="40" /></a>
 <a href="https://discord.gg/560981275364818944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="560981275364818944" height="30" width="40" /></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmpizza)](https://github.com/anuraghazra/github-readme-stats)
