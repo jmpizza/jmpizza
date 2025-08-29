@@ -13,7 +13,7 @@
 ## 🚀 Skills</h2>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,postgres,react,next,tailwind" alt="Skills"> <br> 
 
-<h3 align="left">Connect with me:</h3>
+## 📬 Connect with me 
 <p align="center">
     <a href="https://linkedin.com/in/jmpizza" target="blank">
         <img align="center" src="assets/linkedin.png" alt="jmpizza" height="50" width="50" />
