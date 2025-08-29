@@ -10,7 +10,7 @@
 
 🚀 Excited to build and contribute to open-source projects  
 
-## 🚀 Skills</h2>
+## 💻 Skills</h2>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,postgres,react,next,tailwind" alt="Skills"> <br> 
 
 ## 📬 Connect with me 
