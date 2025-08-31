@@ -15,8 +15,11 @@
 
 ## 📁 Featured projects
 
-- [Mi Horario Uniandes](https://github.com/Open-Source-Uniandes/Mi-Horario-Uniandes) — Web application that helps Universidad de los Andes students find their ideal schedule using the official API.
-- [Database Project 2024-2](https://github.com/jmpizza/proyecto-bases-datos-2024-2) — Academic project focused on database modeling and management for a neighborhood bakery in Bogotá.
+- [Mi Horario Uniandes](https://github.com/Open-Source-Uniandes/Mi-Horario-Uniandes) 
+Web application that helps Universidad de los Andes students find their ideal schedule using the official API.
+
+- [Database Project 2024-2](https://github.com/jmpizza/proyecto-bases-datos-2024-2) 
+Academic project focused on database modeling and management for a neighborhood bakery in Bogotá.
 
 
 
