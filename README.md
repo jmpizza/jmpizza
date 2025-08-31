@@ -13,6 +13,13 @@
 ## 💻 Skills</h2>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,postgres,react,next,tailwind" alt="Skills"> <br> 
 
+## 📁 Featured projects
+
+- [Mi Horario Uniandes](https://github.com/Open-Source-Uniandes/Mi-Horario-Uniandes) — Web application that helps Universidad de los Andes students find their ideal schedule using the official API.
+- [Database Project 2024-2](https://github.com/jmpizza/proyecto-bases-datos-2024-2) — Academic project focused on database modeling and management for a neighborhood bakery in Bogotá.
+
+
+
 ## 📬 Connect with me 
 <p align="center">
     <a href="https://linkedin.com/in/jmpizza" target="blank">
