@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="banner" style="margin-bottom:5px;" src="assets/banner.png"/>
+  <img alt="banner" style="margin-bottom:5px;" src="assets/banner.png"/>
 </div>
 
 ## 👩🏻‍💻 About me
@@ -19,26 +19,24 @@
 
 - [Database Project 2024-2](https://github.com/jmpizza/proyecto-bases-datos-2024-2) — Academic project focused on database modeling and management for a neighborhood bakery in Bogotá.
 
+## 📬 Connect with me
 
+<p align="center">
+    <a href="https://linkedin.com/in/jmpizza" target="blank">
+        <img align="center" src="assets/linkedin.png" alt="jmpizza" height="50" width="50" />
+    </a>
+    <a href="https://discordapp.com/users/560981275364818944" target="blank">
+        <img align="center" src="assets/discord.png" alt="560981275364818944" height="50" width="50" />
+    </a>
+</p>
 
-<div align="center">
+## 📊 Stats
 
-<table>
-  <tr>
-    <td align="center" valign='top' width="300px">
-      <h2>📬 Connect with me</h2>
-      <a href="https://linkedin.com/in/jmpizza" target="_blank">
-        <img src="assets/linkedin.png" alt="LinkedIn" height="50" width="50"/>
-      </a>
-      <a href="https://discordapp.com/users/560981275364818944" target="_blank">
-        <img src="assets/discord.png" alt="Discord" height="50" width="50"/>
-      </a>
-    </td>
-    <td align="center" width="500px">
-      <h2>📊 Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p>
+  <a aling="center">
+    <img aling="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  </a>
+  <a aling="center">
+    <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
