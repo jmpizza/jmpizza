@@ -22,11 +22,13 @@
 
 
 ## 📬 Connect with me 
-<p align="center">
+<div align="center">
     <a href="https://linkedin.com/in/jmpizza" target="blank">
         <img align="center" src="assets/linkedin.png" alt="jmpizza" height="50" width="50" />
     </a>
     <a href="https://discordapp.com/users/560981275364818944" target="blank">
         <img align="center" src="assets/discord.png" alt="560981275364818944" height="50" width="50" />
     </a>
-</p>
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</div>
