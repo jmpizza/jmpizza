@@ -23,8 +23,22 @@
 
 <div align="center">
 
-| ## 📬 Connect with me | ## 📊 Stats |
-|------------------------|-------------|
-| <a href="https://linkedin.com/in/jmpizza" target="_blank"><img src="assets/linkedin.png" alt="LinkedIn" height="50" width="50"/></a> <a href="https://discordapp.com/users/560981275364818944" target="_blank"><img src="assets/discord.png" alt="Discord" height="50" width="50"/></a> | <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/> |
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <h2>📬 Connect with me</h2>
+      <a href="https://linkedin.com/in/jmpizza" target="_blank">
+        <img src="assets/linkedin.png" alt="LinkedIn" height="50" width="50"/>
+      </a>
+      <a href="https://discordapp.com/users/560981275364818944" target="_blank">
+        <img src="assets/discord.png" alt="Discord" height="50" width="50"/>
+      </a>
+    </td>
+    <td align="center" width="500px">
+      <h2>📊 Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+    </td>
+  </tr>
+</table>
 
 </div>
