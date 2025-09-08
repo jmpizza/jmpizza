@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td align="center" width="300px">
+    <td align="center" valing='top' width="300px">
       <h2>📬 Connect with me</h2>
       <a href="https://linkedin.com/in/jmpizza" target="_blank">
         <img src="assets/linkedin.png" alt="LinkedIn" height="50" width="50"/>
