@@ -22,13 +22,20 @@
 
 
 ## 📬 Connect with me 
-<div align="center">
-    <a href="https://linkedin.com/in/jmpizza" target="blank">
-        <img align="center" src="assets/linkedin.png" alt="jmpizza" height="50" width="50" />
-    </a>
-    <a href="https://discordapp.com/users/560981275364818944" target="blank">
-        <img align="center" src="assets/discord.png" alt="560981275364818944" height="50" width="50" />
-    </a>
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/jmpizza" target="blank">
+          <img src="assets/linkedin.png" alt="jmpizza" height="50" width="50" />
+      </a>
+      <a href="https://discordapp.com/users/560981275364818944" target="blank">
+          <img src="assets/discord.png" alt="560981275364818944" height="50" width="50" />
+      </a>
+    </td>
+    <td width="30"></td> <!-- separación -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jmpizza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
